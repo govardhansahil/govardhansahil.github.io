@@ -1,5 +1,2 @@
 ## JAVA LAB Programs
-1. [Week 1]()
-2. [Week 2]()
-3. [Week 3]()
-4. [Week 4]()
+1. [Week 1](https://govardhansahil.github.io/Week1)
